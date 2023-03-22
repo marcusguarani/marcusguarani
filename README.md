@@ -1,4 +1,4 @@
-# Olá, eu sou o Marcus Guarani! Seja bem vindo(a) ao meu perfil 😃👨🏾‍💻
+# Olá, eu sou o Marcus Guarani! Seja bem vindo(a) ao meu perfil 😃
 
 Atuo na área de desenvolvimento de software desde 2000 com a criação de sistemas Web e Mobile.<br/>
 Sempre focado na qualidade do produto final, visando gerar valor com o código desenvolvido!<br/><br/>  
