@@ -21,12 +21,9 @@ Em constante aprendizado, mas segue as que mais uso:
   <img width='50' height='35' alt='Laravel' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
   <img width='50' height='35' alt='Python' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width='50' height='35' alt='HTML5' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img width='50' height='35' alt='CSS3' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width='50' height='35' alt='Bootstrap' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+  <img width='50' height='35' alt='CSS3' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
   <img width='50' height='35' alt='Angular' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img width='50' height='35' alt='React' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img width='35' height='35' style='margin-left: 12.5px; margin-right: 12.5px;' alt='Harbour' src="https://user-images.githubusercontent.com/44708676/195702992-d6c5ddb5-240b-4c24-942f-f11fbee1f3a7.png" />
-
 </div> 
   
 #### 💾 Bancos de dados:
