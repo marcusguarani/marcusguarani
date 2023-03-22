@@ -17,8 +17,8 @@ Em constante aprendizado, mas segue as que mais uso:
 #### 💻 Linguagens:
 <div styled="display: inline-block">  
   <img width='50' height='35' alt='PHP' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img width='50' height='35' alt='JavaScript' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width='50' height='35' alt='Laravel' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+  <img width='50' height='35' alt='JavaScript' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
   <img width='50' height='35' alt='Python' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width='50' height='35' alt='HTML5' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width='50' height='35' alt='CSS3' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
