@@ -7,6 +7,7 @@ Sempre focado na qualidade do produto final, visando gerar valor com o código d
 ## Minhas Skills
 Em constante aprendizado, mas segue as que mais uso:
 
+
 #### 💻 Linguagens:
 <div styled="display: inline-block">  
   <img width='50' height='35' alt='PHP' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
