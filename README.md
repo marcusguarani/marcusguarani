@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Marcus Guarani!
 
-**Desenvolvedor Full Stack Sênior | Analista de Sistemas**
+   **Desenvolvedor Full Stack Sênior | Analista de Sistemas**
 
 - 💻 Mais de 20 anos de experiência em desenvolvimento, sustentação e evolução de sistemas corporativos web.
 - 🚀 Atuação recente com **C#/.NET, Entity Framework, Angular, React e TypeScript** em plataformas de agronegócio e gestão pública.
