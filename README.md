@@ -1,9 +1,8 @@
 # 👋 Olá, eu sou o Marcus Guarani!
 
 **Desenvolvedor Full Stack Sênior | Analista de Sistemas**
-📍 São José dos Campos – SP · Disponível para CLT ou PJ · remoto, híbrido ou presencial
 
-- 💻 Mais de 10 anos de experiência em desenvolvimento, sustentação e evolução de sistemas corporativos web.
+- 💻 Mais de 20 anos de experiência em desenvolvimento, sustentação e evolução de sistemas corporativos web.
 - 🚀 Atuação recente com **C#/.NET, Entity Framework, Angular, React e TypeScript** em plataformas de agronegócio e gestão pública.
 - 🧱 Base sólida em **PHP/Laravel, Node.js, Python** e bancos relacionais (**SQL Server, PostgreSQL e MySQL**).
 - 🛠️ Experiência com sustentação de sistemas em produção, análise de causa raiz, suporte N2/N3 e integrações via APIs REST e SOAP.
